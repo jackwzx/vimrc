@@ -64,6 +64,8 @@ nmap <Leader><space> :nohlsearch<cr>
 "Make NERDTreeToogle easier to toggle.
 nmap <Leader>1 :NERDTreeToggle<cr>
 
+nmap <C-S-j> :NERDTreeFind<cr>
+
 
 "Make it easy to switch in tab
 nmap <Leader>tp :tabp<cr>
